@@ -24,7 +24,7 @@ import com.pivotal.example.xd.OrderGenerator;
 import com.pivotal.example.xd.RabbitClient;
 
 /**
- * Handles requests for the application home page.
+ * Handles requests for the application home page. Comments to kick off build.
  */
 @Controller
 public class OrderController {
